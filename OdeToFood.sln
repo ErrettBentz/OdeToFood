@@ -5,6 +5,8 @@ VisualStudioVersion = 16.6.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OdeToFood", "OdeToFood\OdeToFood.csproj", "{27C477F9-ED4C-4317-ABBD-202586C6C6ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OdeToFood.Core", "OdeToFood.Core\OdeToFood.Core.csproj", "{24C7ED09-9BCF-4CBF-9372-F69AB5F4FE48}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,17 @@ Global
 		{27C477F9-ED4C-4317-ABBD-202586C6C6ED}.Release|x64.Build.0 = Release|Any CPU
 		{27C477F9-ED4C-4317-ABBD-202586C6C6ED}.Release|x86.ActiveCfg = Release|Any CPU
 		{27C477F9-ED4C-4317-ABBD-202586C6C6ED}.Release|x86.Build.0 = Release|Any CPU
+		{24C7ED09-9BCF-4CBF-9372-F69AB5F4FE48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24C7ED09-9BCF-4CBF-9372-F69AB5F4FE48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24C7ED09-9BCF-4CBF-9372-F69AB5F4FE48}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{24C7ED09-9BCF-4CBF-9372-F69AB5F4FE48}.Debug|x64.Build.0 = Debug|Any CPU
+		{24C7ED09-9BCF-4CBF-9372-F69AB5F4FE48}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{24C7ED09-9BCF-4CBF-9372-F69AB5F4FE48}.Debug|x86.Build.0 = Debug|Any CPU
+		{24C7ED09-9BCF-4CBF-9372-F69AB5F4FE48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24C7ED09-9BCF-4CBF-9372-F69AB5F4FE48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24C7ED09-9BCF-4CBF-9372-F69AB5F4FE48}.Release|x64.ActiveCfg = Release|Any CPU
+		{24C7ED09-9BCF-4CBF-9372-F69AB5F4FE48}.Release|x64.Build.0 = Release|Any CPU
+		{24C7ED09-9BCF-4CBF-9372-F69AB5F4FE48}.Release|x86.ActiveCfg = Release|Any CPU
+		{24C7ED09-9BCF-4CBF-9372-F69AB5F4FE48}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
