@@ -31,8 +31,16 @@
                     asp-page="./Detail"
                     asp-route-restaurantId="@restaurant.Id"
                     >
-                    <button type="button" class="">
+                    <button type="button" class="btn btn-dark">
                         Details
+                    </button>
+                </a>
+                <a class="btn btn-lg"
+                    asp-page="./Edit"
+                    asp-route-restaurantId="@restaurant.Id"
+                    >
+                    <button type="button" class="btn btn-dark">
+                        Edit
                     </button>
                 </a>
             </td>
